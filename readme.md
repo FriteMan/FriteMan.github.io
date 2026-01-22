@@ -1,0 +1,1 @@
+Jsp encore quoi ecrire dans le README mais voila mon projet je veux faire un site bien stylé pour moi, d'un coté je m'habitue au HTML/CSS et d'un autre coté c'est drole.
